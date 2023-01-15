@@ -1,3 +1,12 @@
+'''
+    File name: Complex.py
+    Author: Manognya Acharya
+    Date created: 15/01/2022
+    Date last modified: 5/01/2022
+    Python Version: 3.8.8
+    Description: Operations on complex numbers
+'''
+
 # TODOs:
 # 1. Implement operations for more than 2 numbers
 # 2. Implement to find the phase of a complex number (eg: phase of (a+ib) = arctan(b/a))
